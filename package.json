@@ -1,0 +1,27 @@
+{
+    "name"       : "AutoDeploy",
+    "description": "The example of the auto-deploy on heroku after travis.",
+    "version"    : "0.0.1",
+    "contributor": [
+        {
+            "name" : "Lee",
+            "email": "jessy1092@gmail.com"
+        }
+    ],
+    "scripts": {
+        "start": "node index.js"
+    },
+    "engines":{
+        "node": "0.10.x"
+    },
+    "dependencies": {
+        "express"    : "3.4.x"
+    },
+    "repository": [
+        {
+            "type": "git",
+            "url" : "git://github.com/jessy1092/AutoDeploy"
+        }
+    ],
+    "license": "MIT"
+}
