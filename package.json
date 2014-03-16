@@ -9,7 +9,8 @@
         }
     ],
     "scripts": {
-        "start": "node index.js"
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "engines":{
         "node": "0.10.x"
@@ -20,7 +21,7 @@
     "repository": [
         {
             "type": "git",
-            "url" : "git://github.com/jessy1092/AutoDeploy"
+            "url" : "https://github.com/jessy1092/AutoDeploy"
         }
     ],
     "license": "MIT"
