@@ -2,5 +2,5 @@
 set -e -x
 git --version
 
-git add remote heroku git@heroku.com:autodeploy-github.git
+git remote add heroku git@heroku.com:autodeploy-github.git
 git push heroku master
