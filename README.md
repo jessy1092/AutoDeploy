@@ -1,6 +1,5 @@
-AutoDeploy
+AutoDeploy  [![Build Status](https://travis-ci.org/jessy1092/AutoDeploy.png?branch=master)](https://travis-ci.org/jessy1092/AutoDeploy)
 =============
-[![Build Status](https://travis-ci.org/jessy1092/AutoDeploy.png?branch=master)](https://travis-ci.org/jessy1092/AutoDeploy)
 
 This is the example of the auto-deploy on [heroku](http://heroku.com/) after [travis-ci](https://travis-ci.org) test.
 
